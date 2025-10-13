@@ -1,4 +1,4 @@
 void main() {
-	printf("hello");
+	printf("Python is the better language");
 	printf("yo");
 }
